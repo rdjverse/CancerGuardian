@@ -62,8 +62,11 @@ streamlit run app.py
 
 ## 🏗️ How It Works
 1️⃣ User inputs tumor-related features via the web interface 🖥️
+
 2️⃣ Input is **standardized** using `StandardScaler` 📏
+
 3️⃣ Pre-trained `model.pkl` predicts whether the tumor is **malignant** or **benign** 🧬
+
 4️⃣ Result is displayed with an intuitive UI 🎨
 
 ---
